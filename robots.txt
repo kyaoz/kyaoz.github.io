@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kyaoz.github.io/Jli/sitemap.Jli.gz
